@@ -121,6 +121,8 @@ To learn more about how `getStaticProps` works, check out the [Data Fetching doc
 
 #### Scenario 2: Your page paths depend on external data
 
+<img src="../../public/images/photo2.jpg" />
+
 Next.js allows you to create pages with **dynamic routes**. For example, you can create a file called `pages/posts/[id].js` to show a single blog post based on `id`. This will allow you to show a blog post with `id: 1` when you access `posts/1`.
 
 > To learn more about dynamic routing, check the [Dynamic Routing documentation](/docs/routing/dynamic-routes.md).

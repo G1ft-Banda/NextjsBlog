@@ -2,11 +2,11 @@
 title: Next.js Pages
 date: 2021/3/18
 description: Learn more about Next.js pages.
-tag: web development
+tag: web development,web scraping
 author: You
 ---
 
-<img src="public/images/photo.jpg" />
+<img src= "public/images/photo.jpg" alt="hero image" style="width:100%;height:auto;" />
 # Next.js Pages
 
 In Next.js, a **page** is a [React Component](https://reactjs.org/docs/components-and-props.html) exported from a `.js`, `.jsx`, `.ts`, or `.tsx` file in the `pages` directory. Each page is associated with a route based on its file name.
